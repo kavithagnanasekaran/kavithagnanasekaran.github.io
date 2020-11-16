@@ -1,0 +1,19 @@
+body {
+    background-image: url("https://myimagesalexa.s3.amazonaws.com/alexa_images/johannes_plenio_unsplash.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 1000px 800px;
+    margin: 0;
+}
+
+#canvas {
+    position: absolute;
+    margin: auto;
+    width: 750px;
+    height: 780px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
