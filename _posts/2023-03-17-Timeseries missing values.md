@@ -7,6 +7,7 @@ tags: [Timeseries, Missing values]
 ---
 
 ![header image](/assets/img/post_imgs/timeseries_visulaization/dcA.jpg)
+
 ## Introduction
 
 <p>Missing values are common in real world data . we need to fill the missing data before feeding it to the model. In time series sequence the missing value can be be a random data or the sequence of data it occur due to incorrect reading or missing reading for that timesteps.one should pay attention while filling the missing  data in time series because it should be depend on time weather data the summer and winter has the extremely different temperature and also in seasonal like rainfall data you can expect minimum or no rain in summer and more rain in rainy season depends on the country. Then make sure your data to be realistic with respect to time.
