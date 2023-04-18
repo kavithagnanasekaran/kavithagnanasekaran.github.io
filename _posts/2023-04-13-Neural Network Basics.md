@@ -6,7 +6,7 @@ categories: Neural Networks
 tags: [Neural Networks, Deep Learning]
 ---
 
-![header image](assets/img/post_imgs/neural_network_basics/header.jpg)
+![header image](/assets/img/post_imgs/neural_network_basics/header.jpg)
 
 ## Intoduciton:
 
@@ -85,7 +85,7 @@ model.compile(optimizer="sgd",loss="mean_squared_error")
 tf.keras.utils.plot_model(model, show_shapes=True,show_dtype=True)
 ```
 
-![Network image](assets/img/post_imgs/neural_network_basics/TF_single_neural_network.png)
+![Network image](/assets/img/post_imgs/neural_network_basics/TF_single_neural_network.png)
 
 ### Data to pass through model
 
